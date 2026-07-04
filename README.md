@@ -2,7 +2,7 @@
 
 ![Imagen](Imagenes/Estructuras.jpg)
 
-**alopezv22** es un repositorio _special_   enfocado en la enseñanza y aprendizaje de proyectos de desarrollo.
+**alopezv22/alopezv22** es un repositorio _special_   enfocado en la enseñanza y aprendizaje de proyectos de desarrollo.
 
 - 🔭 Actualmente estoy trabajando en Estructuras de Datos
 - 🌱 Aprendiendo como...
