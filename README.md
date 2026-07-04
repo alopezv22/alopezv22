@@ -1,4 +1,4 @@
-Ingeniería en Sistemas · UniSur
+Ingeniería en Sistemas
 
 # Tu Nombre
 
@@ -37,5 +37,5 @@ VB.net
 
 [tu\_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)  ·  [GitHub](https://github.com/TU-USUARIO)
 
-Hecho con HTML y CSS — Día del Ingeniero, UniSur Campus Santa Lucía.
+
 
